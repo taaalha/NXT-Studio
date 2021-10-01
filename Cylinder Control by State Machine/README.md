@@ -38,14 +38,14 @@ In this task, an automatic mode of operation was developed. Whereupon starting t
 
 
 
-Note: This exercise was part of the course ELEC-C8201 "Control and Automation" at Aalto University Finland. 
+
 
 
 # Some screenshots
 ![image](https://user-images.githubusercontent.com/87899535/135574667-127b351e-86a6-481f-8c22-f21f8023f723.png)
 ![image](https://user-images.githubusercontent.com/87899535/135574817-4b11f9ac-fd87-4ec6-8e45-6659e72082db.png)
 
-
+**Note**: This exercise was part of the course ELEC-C8201 "Control and Automation" at Aalto University Finland. 
 
 
 
